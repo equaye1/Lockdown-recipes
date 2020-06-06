@@ -1,0 +1,32 @@
+<!DOCTYPE html>
+<html>
+    <img src="logo.jpg"
+    
+        <link rel="stylesheet" href="style.css">
+    </head>
+    <meta charset="utf-s">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <title>Lockdown recipies</title>
+    <link rel="stylesheet" href="styles.css">
+​
+    <body>
+        <h2><i>to put you in the mood for food</i></h2>
+        <div class="nav">
+            <a href="index.html">Home</a>
+            <a href="about.html">About</a>
+​
+        <hr>
+        <br>
+        <img src="grapefruit.jpg" >
+        
+            <ul>
+                <li>Ingredient </li>
+                <li>Cuisine</li>
+                <li>Occasion</li>
+                <li>Healthy</li>
+                <li>Quick</li>
+        
+                </ul>
+            
+    </body>
+</html>
